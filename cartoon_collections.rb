@@ -6,7 +6,7 @@ end
 
 def summon_captain_planet(array)
   array.map do |word|
-  puts word.upcase
+  word.upcase
   end 
 end
 
